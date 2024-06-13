@@ -37,7 +37,7 @@ Nous avons utilisé Trello comme outil de gestion de projet pour organiser nos t
 ## Technologies Utilisées
 - Front-End : PHP, CSS
 - Back-End : PHP, MySQL
-- Outils : Trello, , Xamp, GitHub, Figma, Adobe, Canva, Bootstrap, Phpmyadmin, Chat Gpt, Stack Overflow...
+- Outils : Trello, Postman, Xamp, GitHub, Figma, Adobe, Canva, Bootstrap, Phpmyadmin, Chat Gpt, Stack Overflow...
 
 ## Comment lancer le projet
 
