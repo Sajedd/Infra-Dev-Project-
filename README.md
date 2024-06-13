@@ -32,7 +32,7 @@ Le projet a été réalisé en collaboration avec mes camarades de classe vous p
 
 ## 🌟 Trello
 Nous avons utilisé Trello comme outil de gestion de projet pour organiser nos tâches, collaborer et suivre notre progression. Vous pouvez accéder à notre tableau Trello.
-- [ici pour suivre la conduite de notre projet ](https://trello.com/invite/b/UCywIpAU/ATTI94b4a846f8d4adae89673227b507069a91F60FE7/prestige-infra-dev)
+- [ici pour suivre la conduite de notre projet ](https://trello.com/invite/b/WE0J6Gcw/ATTI84bb86c33df9234cb519f5ddc46e68e6C14246F1/conduite-de-projet-infrastructure-developpement)
 
 ## Technologies Utilisées
 - Front-End : PHP, CSS
