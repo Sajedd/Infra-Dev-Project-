@@ -27,11 +27,12 @@ La maquette du projet a été réalisée en tenant compte des meilleures pratiqu
 
 ## Répartition des Rôles
 Le projet a été réalisé en collaboration avec mes camarades de classe vous pouvez y retrouvez nos branches :
-- [[Sajed](https://github.com/youssoufmiyad/e-commerce-PHP/tree/Sajed)]() : Front-End, Sajed s'est occupé du design des différentes pages telles que l'authentification, le profil, le panier, etc. Il a également géré le routage et la gestion de l'authentification de l'utilisateur. De plus, il a travaillé sur le front du dashboard ainsi que les Maquettes et le README..
-- [Abdou](https://github.com/youssoufmiyad/e-commerce-PHP/tree/main) : Back-End, Abdoulaye a été responsable de la création et de l'implémentation de la base de données. Il a également développé les API CRUD pour la gestion des produits et des utilisateurs, ainsi que le dashboard pour les administrateurs.
+- [Sajed](https://github.com/Sajedd/Infra-Dev-Project-/tree/Sajed) : Front-End, Sajed s'est occupé du design des différentes pages telles que l'authentification, le profil, le panier, etc. Il a également géré le routage et la gestion de l'authentification de l'utilisateur. De plus, il a travaillé sur le front du dashboard ainsi que les Maquettes et le README..
+- [Abdou](https://github.com/Sajedd/Infra-Dev-Project-/tree/main) : Back-End, Abdoulaye a été responsable de la création et de l'implémentation de la base de données. Il a également développé les API CRUD pour la gestion des produits et des utilisateurs, ainsi que le dashboard pour les administrateurs.
 
 ## 🌟 Trello
-Nous avons utilisé Trello comme outil de gestion de projet pour organiser nos tâches, collaborer et suivre notre progression. Vous pouvez accéder à notre tableau Trello. https://trello.com/invite/b/UCywIpAU/ATTI94b4a846f8d4adae89673227b507069a91F60FE7/prestige-infra-dev
+Nous avons utilisé Trello comme outil de gestion de projet pour organiser nos tâches, collaborer et suivre notre progression. Vous pouvez accéder à notre tableau Trello.
+- [ici pour suivre la conduite de notre projet ](https://trello.com/invite/b/UCywIpAU/ATTI94b4a846f8d4adae89673227b507069a91F60FE7/prestige-infra-dev)
 
 ## Technologies Utilisées
 - Front-End : PHP, CSS
